@@ -1,4 +1,4 @@
-# RestaurantMenu
+# RestaurantMenuAPI
 
 Steps to run this project:
 
